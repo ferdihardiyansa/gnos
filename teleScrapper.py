@@ -19,7 +19,7 @@ class Scrapper:
         self.session_name = "SESSION NAME"
         self.phone = "PHONE NUMBER WITH COUNTRY CODE"
         self.client = self.groups = None
-        self.aggressive = False  # change to true to scrape all members from a group
+        self.aggressive = true  # change to true to scrape all members from a group
         self.members_from_group_limit = (
             200  # maximum number of people to scrape from a group
         )
