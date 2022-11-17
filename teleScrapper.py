@@ -13,11 +13,11 @@ import sys
 
 class Scrapper:
     def __init__(self):
-        self.app_id = "APP ID NUMBER"
-        self.app_hash = "APP HASH"
-        self.app_name = "APP NAME"
-        self.session_name = "SESSION NAME"
-        self.phone = "PHONE NUMBER WITH COUNTRY CODE"
+        self.app_id = "22726130"
+        self.app_hash = "68564071c09e98713c70062a8b288922"
+        self.app_name = "rangga firmansyah"
+        self.session_name = "rangga firmansyah"
+        self.phone = "+62"
         self.client = self.groups = None
         self.aggressive = true  # change to true to scrape all members from a group
         self.members_from_group_limit = (
