@@ -17,7 +17,7 @@ class Scrapper:
         self.app_hash = "68564071c09e98713c70062a8b288922"
         self.app_name = "rangga firmansyah"
         self.session_name = "rangga firmansyah"
-        self.phone = "+62"
+        self.phone = "+6287851124055"
         self.client = self.groups = None
         self.aggressive = True  # change to true to scrape all members from a group
         self.members_from_group_limit = (
